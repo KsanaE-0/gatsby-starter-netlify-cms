@@ -2,9 +2,10 @@
 templateKey: blog-post
 title: Making sense of the SCAA’s new Flavor Wheel
 date: 2016-12-17T15:04:10.000Z
+description: The Coffee Taster’s Flavor Wheel, the official resource used by
+  coffee tasters, has been revised for the first time this year.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/cleanshot-2020-08-13-at-11.38.37.png
 tags:
   - flavor
   - tasting
@@ -25,6 +26,13 @@ The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-pr
 * retailers
 * manufacturers
 * baristas
+
+```java
+int a = 3;
+int b = 4;
+system.out.println(a + b);
+
+```
 
 For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
 
